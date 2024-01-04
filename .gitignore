@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+
+# Certs
+**/*.pem
+**/*.crt
+**/*.cer
+**/*.key
+
+
+# go devtools
+bin
+test-reports
+tools
